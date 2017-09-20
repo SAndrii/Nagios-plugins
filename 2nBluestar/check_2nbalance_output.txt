@@ -1,0 +1,8 @@
+=== RESTART: C:\Python36\GIT\Nagios-plugins\2nBluestar\check_2nbalance.py ===
+Enter SIM Card Number: 0
+Balance is: 812 min. to other operators, 50 min. for international calls, 1423 sms.
+>>> 
+=== RESTART: C:\Python36\GIT\Nagios-plugins\2nBluestar\check_2nbalance.py ===
+Enter SIM Card Number: 1
+SIM card is busy now
+>>> 
